@@ -1,0 +1,25 @@
+h1#first-heading {
+    font-size: 80px;
+    left: 0;
+    line-height: 200px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+}
+
+h2#second-heading {
+    font-size: 80px;
+    left: 0;
+    line-height: 200px;
+    margin-top: -20px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+}
+
+section#heading {
+    height: 100vh;
+}

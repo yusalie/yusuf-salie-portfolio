@@ -1,0 +1,13 @@
+#about-me {
+    background-color: black;
+    height: 100vh;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#testimonial {
+    background-color: black;
+    height: 100vh;
+}

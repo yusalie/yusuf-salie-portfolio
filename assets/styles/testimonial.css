@@ -1,0 +1,28 @@
+section#testimonial {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img.card-img-top {
+    height: 330px;
+}
+
+.card {
+    position: relative;
+    display: inline-block;
+    width: 30rem;
+    height: 65rem;
+    margin: auto;
+}
+
+p.testimonial {
+    font-size: 18px;
+}
+
+h5.card-title {
+    font-size: 20px;
+}
+
+p.text-muted {
+    font-size: 17px;
+}

@@ -1,0 +1,28 @@
+.language {
+    display: inline-block;
+    font-size: 18px;
+    color: rgb(255, 255, 255);
+}
+
+.language {
+    color: white;
+}
+
+.text-center {
+    padding: 15px 1px 1px 1px;
+}
+
+.heading_work,
+.work_du,
+.code_head,
+.code_du,
+.high_head,
+.high_du,
+.qual {
+    color: white;
+    font-size: 18px;
+}
+
+#lang {
+    text-align: center;
+}

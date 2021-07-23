@@ -1,0 +1,10 @@
+#skills-section {
+    background-color: white;
+    height: 100vh;
+    align-content: center;
+    text-align: center;
+}
+
+.col-md-4 {
+    font-size: 25px;
+}
